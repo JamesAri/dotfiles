@@ -15,22 +15,22 @@ Move these files:
 ---
 ## DOWNLOADS
 
-SHELL [Fish](https://github.com/fish-shell/fish-shell) 
-SHELL_THEME [Starship](https://starship.rs/)
-TERMINAL_EMULATOR [Alacritty](https://github.com/alacritty/alacritty)
-TERMINAL_MULTIPLEXER [Tmux](https://github.com/tmux/tmux)
-EDITOR [Neovim](https://github.com/neovim/neovim)
-	- [Basic_IDE](https://github.com/LunarVim/nvim-basic-ide) (don't need to download if you use dotfiles from this repo)
+SHELL [Fish](https://github.com/fish-shell/fish-shell)<br />
+SHELL_THEME [Starship](https://starship.rs/)<br />
+TERMINAL_EMULATOR [Alacritty](https://github.com/alacritty/alacritty)<br />
+TERMINAL_MULTIPLEXER [Tmux](https://github.com/tmux/tmux)<br />
+EDITOR [Neovim](https://github.com/neovim/neovim)<br />
+	- [Basic_IDE](https://github.com/LunarVim/nvim-basic-ide) (don't need to download if you use dotfiles from this repo)<br />
 
 ---
 ## SHELL PLUGINS
 Plugins I use in my Fish.
 
-[Fisher](https://github.com/jorgebucaran/fisher) (Plugin manaager for Fish)
-	- [Z](https://github.com/jethrokuan/z) (Smart jumping, download via Fisher)
-[EXA](https://github.com/ogham/exa) (Better ls)
-[GHQ](https://github.com/x-motemen/ghq) (Git clone manager)
-[PECO](https://github.com/peco/peco) (Better grep)
+[Fisher](https://github.com/jorgebucaran/fisher) (Plugin manaager for Fish)<br />
+	- [Z](https://github.com/jethrokuan/z) (Smart jumping, download via Fisher)<br />
+[EXA](https://github.com/ogham/exa) (Better ls)<br />
+[GHQ](https://github.com/x-motemen/ghq) (Git clone manager)<br />
+[PECO](https://github.com/peco/peco) (Better grep)<br />
 
 ---
 ## CHANGES IN NEOVIM BASIC IDE SETTINGS
