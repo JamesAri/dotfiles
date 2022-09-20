@@ -38,8 +38,8 @@ These changes were made to the basic ide neovim repo. If you use the dotfiles fr
 
 #### options.lua
 Changed:
-`vim.opt.number = true` -> `vim.opt.relativenumber = true`
-`vim.opt.clipboard = "unnamedplus"` -> `vim.opt.clipboard = "unnamed"`
+`vim.opt.number = true` -> `vim.opt.relativenumber = true`<br />
+`vim.opt.clipboard = "unnamedplus"` -> `vim.opt.clipboard = "unnamed"`<br />
 
 #### plugins.lua
 Added:
