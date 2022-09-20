@@ -37,7 +37,7 @@ Plugins I use in my Fish.
 These changes were made to the basic ide neovim repo. If you use the dotfiles from my repo, you can ignore this part.
 
 #### options.lua
-Changed:
+Changed:<br/>
 `vim.opt.number = true` -> `vim.opt.relativenumber = true`<br />
 `vim.opt.clipboard = "unnamedplus"` -> `vim.opt.clipboard = "unnamed"`<br />
 
