@@ -4,4 +4,4 @@ nvim/plugin/
 fish/conf.d/z.fish
 fish/functions/_*
 fish/fish_plugins
-fish/variables
+fish/fish_variables
