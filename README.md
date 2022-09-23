@@ -31,7 +31,7 @@ Plugins I use in Fish.
 [EXA](https://github.com/ogham/exa) (Better ls)<br />
 [GHQ](https://github.com/x-motemen/ghq) (Git clone manager)<br />
 [PECO](https://github.com/peco/peco) (Better grep)<br />
-[RANGER](https://github.com/ranger/ranger) (File system)<br />
+[RANGER](https://github.com/ranger/ranger) (File system manager)<br />
 
 ---
 ## CHANGES IN NEOVIM BASIC IDE SETTINGS
