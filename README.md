@@ -24,13 +24,14 @@ EDITOR [Neovim](https://github.com/neovim/neovim)<br />
 
 ---
 ## SHELL PLUGINS
-Plugins I use in my Fish.
+Plugins I use in Fish.
 
 [Fisher](https://github.com/jorgebucaran/fisher) (Plugin manaager for Fish)<br />
 	- [Z](https://github.com/jethrokuan/z) (Smart jumping, download via Fisher)<br />
 [EXA](https://github.com/ogham/exa) (Better ls)<br />
 [GHQ](https://github.com/x-motemen/ghq) (Git clone manager)<br />
 [PECO](https://github.com/peco/peco) (Better grep)<br />
+[RANGER](https://github.com/ranger/ranger) (File system)<br />
 
 ---
 ## CHANGES IN NEOVIM BASIC IDE SETTINGS
