@@ -50,6 +50,10 @@ Added:
   use 'kyazdani42/nvim-palenight.lua'
   use 'navarasu/onedark.nvim'
 ```
+```
+-- Treesitter
+  use 'nvim-treesitter/nvim-treesitter-context'
+```
 
 #### colorscheme.lua
 Large file change. Check dotfiles.
